@@ -12,3 +12,4 @@ C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1
 C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.pdb
 C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.genruntimeconfig.cache
 C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ref\ConsoleApp1if.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.sourcelink.json
