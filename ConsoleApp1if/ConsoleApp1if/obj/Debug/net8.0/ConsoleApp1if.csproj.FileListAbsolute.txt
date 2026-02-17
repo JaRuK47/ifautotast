@@ -1,0 +1,14 @@
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\bin\Debug\net8.0\ConsoleApp1if.exe
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\bin\Debug\net8.0\ConsoleApp1if.deps.json
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\bin\Debug\net8.0\ConsoleApp1if.runtimeconfig.json
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\bin\Debug\net8.0\ConsoleApp1if.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\bin\Debug\net8.0\ConsoleApp1if.pdb
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.AssemblyInfoInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.AssemblyInfo.cs
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.csproj.CoreCompileInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\refint\ConsoleApp1if.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.pdb
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ConsoleApp1if.genruntimeconfig.cache
+C:\Users\anuch\OneDrive\Документы\vs\consolif\ConsoleApp1if\ConsoleApp1if\obj\Debug\net8.0\ref\ConsoleApp1if.dll
