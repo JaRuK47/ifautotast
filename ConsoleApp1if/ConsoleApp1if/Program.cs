@@ -2,7 +2,7 @@
 {
     public class Logic
     {
-        public static string Compare(int cop)
+        public static string Convert(int cop)
         {
             string text;
             string normrub;
@@ -63,7 +63,7 @@
 
             int cop = int.Parse(Console.ReadLine());
 
-            string text = Logic.Compare(cop);
+            string text = Logic.Convert(cop);
 
             Console.WriteLine(text);
         }

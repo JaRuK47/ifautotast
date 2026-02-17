@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\ConsoleApp1if\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2804A6B6-C787-4FF6-9D37-FFF63E9BF2FA}|ConsoleApp1ifTests\\ConsoleApp1ifTests.csproj|c:\\users\\anuch\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\consoleapp1if\\consoleapp1iftests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2804A6B6-C787-4FF6-9D37-FFF63E9BF2FA}|ConsoleApp1ifTests\\ConsoleApp1ifTests.csproj|solutionrelative:consoleapp1iftests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB84555D-7A44-4158-9171-193AAAC2511B}|ConsoleApp1if\\ConsoleApp1if.csproj|c:\\users\\anuch\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\consoleapp1if\\consoleapp1if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB84555D-7A44-4158-9171-193AAAC2511B}|ConsoleApp1if\\ConsoleApp1if.csproj|solutionrelative:consoleapp1if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LogicTests.cs",
+              "DocumentMoniker": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\ConsoleApp1if\\ConsoleApp1ifTests\\LogicTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1ifTests\\LogicTests.cs",
+              "ToolTip": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\ConsoleApp1if\\ConsoleApp1ifTests\\LogicTests.cs*",
+              "RelativeToolTip": "ConsoleApp1ifTests\\LogicTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:20:26.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\ConsoleApp1if\\ConsoleApp1if\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1if\\Program.cs",
               "ToolTip": "C:\\Users\\anuch\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\vs\\consolif\\ConsoleApp1if\\ConsoleApp1if\\Program.cs",
               "RelativeToolTip": "ConsoleApp1if\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T01:44:18.329Z",
               "EditorCaption": ""
