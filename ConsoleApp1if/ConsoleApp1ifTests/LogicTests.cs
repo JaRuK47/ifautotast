@@ -14,10 +14,7 @@ namespace FirstApp.Tests
         [TestMethod()]
         public void MoreCop()
         {
-            int cop = 199;
-
-            string text = Logic.Convert(cop);
-
+            string text = Logic.Convert(199);
             Assert.AreEqual("1 рубль  99 копеек", text);
         }
 
@@ -25,50 +22,35 @@ namespace FirstApp.Tests
         [TestMethod()]
         public void OneCop()
         {
-            int cop = 1;
-
-            string text = Logic.Convert(cop);
-
+            string text = Logic.Convert(1);
             Assert.AreEqual("1 копейка", text);
         }
 
         [TestMethod()]
         public void Onerub()
         {
-            int cop = 100;
-
-            string text = Logic.Convert(cop);
-
+            string text = Logic.Convert(100);
             Assert.AreEqual("1 рубль", text);
         }
 
         [TestMethod()]
         public void fourcop()
         {
-            int cop = 4;
-
-            string text = Logic.Convert(cop);
-
+            string text = Logic.Convert(4);
             Assert.AreEqual("4 копейки", text);
         }
 
         [TestMethod()]
         public void tworub()
         {
-            int cop = 200;
-
-            string text = Logic.Convert(cop);
-
+            string text = Logic.Convert(200);
             Assert.AreEqual("2 рубля", text);
         }
 
         [TestMethod()]
         public void sixrub()
         {
-            int cop = 600;
-
-            string text = Logic.Convert(cop);
-
+            string text = Logic.Convert(600);
             Assert.AreEqual("6 рублей", text);
         }
     }

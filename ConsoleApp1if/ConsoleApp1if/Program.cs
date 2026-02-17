@@ -5,20 +5,20 @@
         public static string Convert(int cop)
         {
             string text;
-            string normrub;
-            string normcop;
+            string normRub;
+            string normCop;
 
             if (cop % 100 > 4)
             {
-                normcop = "копеек";
+                normCop = "копеек";
             }
             else if (cop == 1)
             {
-                normcop = "копейка";
+                normCop = "копейка";
             }
             else
             {
-                normcop = "копейки";
+                normCop = "копейки";
             }
 
             if (cop >= 100)
@@ -29,29 +29,30 @@
 
                 if (rub % 100 == 1)
                 {
-                    normrub = "рубль";
+                    normRub = "рубль";
                 }
                 else if (rub % 100 < 5)
                 {
-                    normrub = "рубля";
+                    normRub = "рубля";
                 }
                 else
                 {
-                    normrub = "рублей";
+                    normRub = "рублей";
                 }
 
                 if (ost > 0)
                 {
-                    text = rub + " " + normrub + "  " + ost + " " + normcop;
+                    
+                    text = $"{rub} {normRub}  {ost} {normCop}";
                 }
                 else
                 {
-                    text = rub + " " + normrub;
+                    text = $"{rub} {normRub}";
                 }
             }
             else
             {
-                text = cop + " " + normcop;
+                text = $"{cop} {normCop}";
             }
             return text;
         }
